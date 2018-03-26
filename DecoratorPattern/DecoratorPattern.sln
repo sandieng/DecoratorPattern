@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beverage", "Beverage\Beverage.csproj", "{C3DCA990-AC1E-45B0-AC2C-678ADC24DEF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorClient", "DecoratorClient\DecoratorClient.csproj", "{255F5A3A-24E6-4CF7-B8BD-9CA3409872EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DCA990-AC1E-45B0-AC2C-678ADC24DEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DCA990-AC1E-45B0-AC2C-678ADC24DEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DCA990-AC1E-45B0-AC2C-678ADC24DEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DCA990-AC1E-45B0-AC2C-678ADC24DEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{255F5A3A-24E6-4CF7-B8BD-9CA3409872EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255F5A3A-24E6-4CF7-B8BD-9CA3409872EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255F5A3A-24E6-4CF7-B8BD-9CA3409872EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255F5A3A-24E6-4CF7-B8BD-9CA3409872EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D90FBC7-6CD0-4720-88D1-8BDF93B7B83D}
+	EndGlobalSection
+EndGlobal
